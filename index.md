@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+### Hello there!
 
-You can use the [editor on GitHub](https://github.com/UnityBets/UnityBets.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+UnityBets is one of the best and most experienced betting tips service that the internet has to offer.
+We provide you with betting tips for football/soccer and tennis.
+Our service os hosted on our Discord server and our Instagram page of which you can find the links down bellow!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Our platforms
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As it is said on the upper pannel, our service is hosted on Discord and Instagram over at:
 
 ```markdown
-Syntax highlighted code block
+* [Our Discord server](https://discord.gg/c4AYth5x)
 
-# Header 1
-## Header 2
-### Header 3
+* [Our Instagram page](https://www.instagram.com/unitybets/)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact us
 
-### Jekyll Themes
+If you ever need to contact us don't be afraid to send us a direct message on Instagram or on Discord.
+We love to talk with you guys.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UnityBets/UnityBets.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Thank you 
 
-### Support or Contact
+We would like to thank you for visiting our website and we hope that we have been helpful towards you! 
+Have a wonderful day ahead!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+UnityBets - 2021
