@@ -8,12 +8,10 @@ Our service os hosted on our Discord server and our Instagram page of which you 
 
 As it is said on the upper pannel, our service is hosted on Discord and Instagram over at:
 
-```markdown
 * [Our Discord server](https://discord.gg/c4AYth5x)
 
 * [Our Instagram page](https://www.instagram.com/unitybets/)
 
-```
 
 ### Contact us
 
