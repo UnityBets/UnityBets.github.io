@@ -1,4 +1,4 @@
-### Hello there!
+### UnityBets
 
 UnityBets is one of the best and most experienced betting tips service that the internet has to offer.
 We provide you with betting tips for football/soccer and tennis.
