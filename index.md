@@ -24,7 +24,7 @@ As it is said on the upper panel, our service is hosted on Discord and Instagram
 
 You can very easily buy an monthly subription through our many different payment methods. We mainly opperate on PayPal, however we offer up to 11 different ways to pay, including credit card and paysafecard. If you do not have a PayPal account you can easily buy our service through our Fiverr gig. The link will be down bellow as well as our PayPal email:
 
-* PayPal: z.aristidis@gmail.com
+* [PayPal: unitybetsemail@gmail.com](https://www.paypal.me/unitybets)
 
 * [Fiverr](https://www.fiverr.com/jim_zaires/write-you-an-article)
 
